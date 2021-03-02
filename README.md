@@ -6,6 +6,7 @@ My name is Anton, and welcome to my GitHub page. I am currently working on the f
 - [Nata: scientific visualization made sweet](https://github.com/GoLP-IST/nata)
 - [Building full-fledged ML/DL product based on MNIST](https://github.com/ahelm/mnist_webapp)
 - [Personal blog based on GatsbyJS with Typescript, React, and Tailwindcss](https://github.com/ahelm/ahelm.github.io)
+- [CLI to manage containerized self-hosted GitHub Action Runner](https://github.com/ahelm/wusa)
 
 > **Disclaimer:**
 > Some of the projects are work-in-progress, and some projects are meant for learning purposes. Please
