@@ -4,7 +4,7 @@ My name is Anton, and welcome to my GitHub page. I am currently working on the f
 
 - [Forcasting model for ICU patients related to COVID-19](https://github.com/ahelm/covid19-icu-forecasting)
 - [Nata: scientific visualization made sweet](https://github.com/GoLP-IST/nata)
-- [Building full-fledged ML/DL product based on MNIST](https://github.com/ahelm/mnist_webapp)
+- [ML/DL service based on MNIST](https://github.com/ahelm/mnist_webapp)
 - [Personal blog based on GatsbyJS with Typescript, React, and Tailwindcss](https://github.com/ahelm/ahelm.github.io)
 - [CLI to manage containerized self-hosted GitHub Action Runner](https://github.com/ahelm/wusa)
 
